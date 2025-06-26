@@ -1,0 +1,10 @@
+streamlit
+qdrant-client
+pandas
+langchain
+langchain-community
+langchain-core
+ollama
+pypdf
+python-docx
+openpyxl

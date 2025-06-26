@@ -1,0 +1,17 @@
+{
+  "available_models": [
+    "gemma3:latest",
+    "gemma3:1b",
+    "mistral:7b",
+    "granite3-dense:2b-instruct-q6_K",
+    "qwen3:1.7b",
+    "granite3.3:2b",
+    "openchat:latest"
+  ],
+  "allowed_collections_for_gpt4": [],
+  "embedding_model": "nomic-embed-text:latest",
+  "rerank_models": [
+    "granite3-dense:2b-instruct-q6_K"
+  ],
+  "default_rerank_model": "granite3-dense:2b-instruct-q6_K"
+}
